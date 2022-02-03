@@ -1,4 +1,4 @@
-# 255dao
+# 255 DAO Website
 
 ## Project setup
 ```
