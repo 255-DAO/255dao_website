@@ -16,13 +16,13 @@
 
     <el-row type="flex" class="row-bg" justify="center" :gutter="0">
       <!-- twitter -->
-      <el-col :span="2">
+      <el-col :span="4">
       <a class="nes-icon twitter is-large" href="https://twitter.com/255dao"></a>
       </el-col>
-      <el-col :span="2">
+      <el-col :span="4">
       <a class="nes-icon telegram is-large" href="#"></a>
       </el-col>
-      <el-col :span="2">
+      <el-col :span="4">
       <a class="nes-icon discord is-large" href="https://discord.gg/zcRVSfJpNH"></a>
       </el-col>
     </el-row>
