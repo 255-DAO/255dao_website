@@ -3,11 +3,14 @@
     <h1>{{ msg }}</h1>
 
 
-    <el-row class="row-bg" justify="center">
-    <div class="nes-container with-title is-rounded">
+    <el-row class="row-bg nes-container with-title is-rounded" justify="center">
       <h3 class="title">Moonriver Network</h3>
-      <p>Collator address: 0x8262f26CAD7855061a9bE91f8A7e1896225FD066</p>
-    </div>
+      <el-col :span="24">
+        <p style="word-break: break-word;">
+          Collator address: 0x8262f26CAD7855061a9bE91f8A7e1896225FD066
+        </p>
+
+      </el-col>
     </el-row>
 
     <el-row class="row-bg" justify="center">

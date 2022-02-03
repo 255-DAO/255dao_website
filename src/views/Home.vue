@@ -9,7 +9,7 @@
 
 
     <el-row type="flex" class="row-bg" justify="center">
-      <el-col :span="10">
+      <el-col :span="16">
     <HelloWorld msg="MAXIMIZE your staking profit"/>
       </el-col>
     </el-row>
