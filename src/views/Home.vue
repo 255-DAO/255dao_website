@@ -20,7 +20,7 @@
       <a class="nes-icon twitter is-large" href="https://twitter.com/255dao"></a>
       </el-col>
       <el-col :span="4">
-      <a class="nes-icon telegram is-large" href="#"></a>
+      <a class="nes-icon telegram is-large" href="https://t.me/dao255"></a>
       </el-col>
       <el-col :span="4">
       <a class="nes-icon discord is-large" href="https://discord.gg/zcRVSfJpNH"></a>
