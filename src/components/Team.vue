@@ -45,6 +45,9 @@
         </p>
       </el-col>
     </el-row>
+
+    <h1>Contact us</h1>
+    <h3><a href="mailto:staking@255ventures.com">staking@255ventures.com</a></h3>
   </div>
 </template>
 
